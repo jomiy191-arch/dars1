@@ -120,23 +120,6 @@ body {
   animation-delay: 10s;
 }
 
-@keyframes fadeSlider {
-
-  0%,
-  100% {
-    opacity: 0;
-  }
-
-  10%,
-  30% {
-    opacity: 1;
-  }
-
-  40% {
-    opacity: 0;
-  }
-}
-
 .hero-container {
   position: relative;
   z-index: 1;
